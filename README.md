@@ -30,8 +30,8 @@
 
 ## Feedback y contribuciones, ¡bienvenidos! :raised_hands:
 
-Si tienes sugerencias, comentarios o quieres contribuir a este repositorio, puedes hacerlo a través de [issues]().
-Si deseas contribuir con código, puedes hacerlo a través de [pull requests]().
+Si tienes sugerencias, comentarios o quieres contribuir a este repositorio, puedes hacerlo a través de issues.
+Si deseas contribuir con código, puedes hacerlo a través de pull requests.
 
 ---
 
